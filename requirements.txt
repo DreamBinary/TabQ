@@ -1,0 +1,17 @@
+transformers==4.49.0
+opencv-python==4.7.0.72
+mpi4py
+deepspeed==0.14.5
+torch
+accelerate
+pillow
+tensorboardx
+jsonlines
+pymupdf
+verovio
+nltk
+python-Levenshtein
+struct_eqtable
+timm
+lxml
+qwen-vl-utils
